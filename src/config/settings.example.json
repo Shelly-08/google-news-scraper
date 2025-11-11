@@ -1,0 +1,22 @@
+{
+  "query": "banana",
+  "language": "en",
+  "region": "US",
+  "max_items": 50,
+  "relative_time": {
+    "hours": 1,
+    "days": null,
+    "years": null
+  },
+  "output": {
+    "format": "json",
+    "path": "data/sample_output.json",
+    "pretty": true
+  },
+  "network": {
+    "timeout": 10,
+    "proxies": null,
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+  },
+  "decode_articles": true
+}
