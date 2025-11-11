@@ -1,0 +1,11 @@
+{
+  "description": "Example input for a batch of Google News searches. This file is not required at runtime but illustrates how you might manage multiple topics.",
+  "queries": [
+    "banana when:1h",
+    "artificial intelligence when:24h",
+    "stock market when:7d"
+  ],
+  "language": "en",
+  "region": "US",
+  "max_items_per_query": 30
+}
